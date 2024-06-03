@@ -13,3 +13,6 @@ yellow = "#dbbc7f"
 
 [font]
 size = 9
+
+[font.normal]
+family = "FiraMono Nerd Font"
